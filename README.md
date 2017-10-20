@@ -1,5 +1,5 @@
 # Basic-Search-engine
-This is a Search Engine that utilizes a multithreaded web crawler. The Front End design is done using HTML/CSS and the Back End is done using SQL.
+This is a Search Engine that utilizes a multithreaded web crawler. The Front End design is done using HTML/CSS.
 
 The program crawls through a given link and parses out the HTML. The crawler will also look at inner sub-links and store all the text into a data structure that keeps track of each word's position, frequency, and what page it was found on.
 
